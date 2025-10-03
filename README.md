@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Привет, я Денис Белугин 👋</h1>
+<h3 align="center">React Frontend разработчик с 3+ годами опыта.</h3>
 
-<!--
-**NeeJed/NeeJed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  Разрабатываю и поддерживаю сервисы, эффективно оцениваю сроки задач. Успешно вывел в релиз проект XmarineIQ с нуля. Работал по командах от 3 до 10 человек по Agile (Kanban, Scrum). Менторил junior-разработчиков.
+Высшее образование с отличием в IT. Получатель президентского гранта по IT-направлениям.
+</div>
+<br/>
 
-Here are some ideas to get you started:
+### 💬 Связаться по работе или проектам
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HH.ru badge](https://img.shields.io/badge/Headhunter-ff0002)](https://hh.ru/resume/58c9ef3aff0f37c0680039ed1f714634725249)  [![Habr badge](https://img.shields.io/badge/Habr-619ebb)](https://habr.com/ru/users/NeeJed/) [![Telegram badge](https://img.shields.io/badge/Telegram-229fda)](https://t.me/@beldendev)
+
+#### ⚙️Стек
+> Основа: `typescript`, `react`, `next.js`, `rtk`, `react query`, `zustand` <br/>
+> Сборка: `webpack`, `vite` <br/>
+> Тестирование: `jest`, `react testing library`, `cypress` <br/>
+> Стиль: `3D.js`, `scss`, `tailwind`, `mui`, `antd`
+<br/>
+
+<img src = 'https://github.com/MarikIshtar007/NeeeJed/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NeeJed&layout=compact">
